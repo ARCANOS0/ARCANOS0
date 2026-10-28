@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tarek (Arcanos)</h1>
 <p align="center">
-  <img src="https://art.pixilart.com/sr25d63210fc213.png" width="480px" alt="Ah Sh1.. To be continued">
+  <img src="https://art.pixilart.com/sr25d63210fc213.png" width="680px" alt="Ah Sh1.. To be continued">
 </p>
 
 ### About Me
-Tarek (My real name yep). I cannot call myself yet a software engineer, but I'm obsessed by learning how computers work, how applications are developed and what is sitting there underneath.
+Tarek (My real name yep). I cannot call myself yet a software engineer, but I'm obsessed by learning how computers work, how applications are developed and what is sitting there underneath.<br/>
 **One day** I will come that one person who can develop whatever he needs to and whatever he wants to, without needing to set there and wait for somebody to do it for me. 
-That's what made me think  I want to study CS"
-I'm not a front-end developer BTW :) 
+That's what made me think  "I want to study CS" <br/>
+**
+I'm not a front-end developer BTW :)** <br/>
 
 💡 **Focus:** Low-level systems, Embedded Systems, & Backend Development
 🐧 **Environment:** Linux Enthusiast (Zorin OS)
