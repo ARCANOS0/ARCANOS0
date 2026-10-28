@@ -17,7 +17,6 @@ I'm not a front-end developer BTW :)
 ### 🛠️ Tech Stack & Tools
 
 #### Languages & Systems
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -33,6 +32,7 @@ I'm not a front-end developer BTW :)
 #### OS & Environment
 ![Zorin OS](https://img.shields.io/badge/Zorin_OS-%2310AAEB.svg?style=for-the-badge&logo=zorin&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-%23FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![OpenCode](https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ProtonVPN](https://img.shields.io/badge/ProtonVPN-%2366DEB1.svg?style=for-the-badge&logo=protonvpn&logoColor=black)
 
