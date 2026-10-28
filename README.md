@@ -2,7 +2,7 @@
 <h4 align="center">AKA <i>TheBlackPenguin</i></h4>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p4YmZzZTFoNWdndW16dHNxeHF0bm9ueWdveTN5ZndkNDY5eTl5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif](https://art.pixilart.com/watermark/3889b8c3f5663c2.gif" alt="Coding GIF">
+  <img src="https://art.pixilart.com/watermark/3889b8c3f5663c2.gif" alt="Coding GIF">
 </p>
 
 ### About Me
