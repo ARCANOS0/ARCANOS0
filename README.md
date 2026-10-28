@@ -4,11 +4,11 @@
 </p>
 
 ### About Me
-Tarek (My real name yep). I cannot call myself yet a software engineer, but I'm obsessed by learning how computers work, how applications are developed and what is sitting there underneath.<br/>
-**One day** I will come that one person who can develop whatever he needs to and whatever he wants to, without needing to set there and wait for somebody to do it for me. 
-That's what made me think  "I want to study CS" <br/>
-**
-I'm not a front-end developer BTW :)** <br/>
+Tarek (That it is my real name yep). I cannot call myself a software engineer yet, just know that I'm obsessed by learning how computers work, how applications are developed and what is sitting there underneath.<br/>
+**One day** I will come that one person who can develop whatever he needs to and whatever he wants to, without needing to set there and wait for somebody to do it for me. <br/>
+That's what made me think "I want to study CS" <br/>
+
+**I'm not a front-end developer BTW :)** <br/>
 
 💡 **Focus:** Low-level systems, Embedded Systems, & Backend Development
 🐧 **Environment:** Linux Enthusiast (Zorin OS)
