@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarek (Arcanos)</h1>
 <p align="center">
-  <img src="https://art.pixilart.com/sr25d63210fc213.png" alt="Ah Sh1.. To be continued">
+  <img src="https://art.pixilart.com/sr25d63210fc213.png" width="480px" alt="Ah Sh1.. To be continued">
 </p>
 
 ### About Me
