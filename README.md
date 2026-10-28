@@ -9,8 +9,8 @@ I'm not a front-end developer BTW :)
 
 
 ### Some Status - Needs To Be Fixed I know :>
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ARCANOS0&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ARCANOS0&show_icons=true&theme=merko)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ARCANOS0)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ARCANOS0&hide=html,php&layout=compact&theme=merko)](https://github.com/stats-organization/github-stats-extended)
