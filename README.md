@@ -1,31 +1,33 @@
-## TheBlackPenguin Is Here!
+<h1 align="center">Hi 👋, I'm Tarek (Arcanos)</h1>
+<h3 align="center">AKA <i>TheBlackPenguin</i></h3>
 
-AKA Arcanos - Tarek (is my real name)  , I cannot call myself yet a software engineer, but I'm obsessed by learning how computers work, how applications are developed and what is sitting there underneath.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p4YmZzZTFoNWdndW16dHNxeHF0bm9ueWdveTN5ZndkNDY5eTl5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="380px" alt="Coding GIF">
+</p>
 
-**One day** I will come that one person who can develop whatever he needs to and whatever he wants to, without needing to set there and wait for somebody to do it for me. 
-That's what made me think  I want to study CS"
+### TheBlackPenguin Is Here!
+I'm obsessed with understanding **how computers work**, how software is architected, and what happens under the hood. 
 
-I'm not a front-end developer BTW :) <br/>
+My goal is to build full independence as a developer—mastering systems low and high level so I can bring any complex idea to life without relying on pre-built abstractions or waiting on someone else to build it.
 
-# Tech Stack :
-![Arc](https://img.shields.io/badge/Arc-%23000000.svg?style=for-the-badge&logo=arc&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
-![Espressif](https://img.shields.io/badge/espressif-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-%23FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![OpenCode](https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff)
-![ProtonVPN](https://img.shields.io/badge/protonvpn-%2366DEB1.svg?style=for-the-badge&logo=protonvpn&logoColor=black)
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Qwen](https://img.shields.io/badge/Qwen-%236950EF.svg?style=for-the-badge&logo=qwen&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Zorin OS](https://img.shields.io/badge/Zorin%20OS-%2310AAEB.svg?style=for-the-badge&logo=zorin&logoColor=white)
+* 💡 **Focus:** Low-level systems, Embedded Systems, & Backend Development *(Not a front-end dev!)*
+* 🐧 **Environment:** Linux Enthusiast (Zorin OS)
+* 🛠️ **Current Objective:** Deep-diving into Computer Science fundamentals, FreeRTOS, and Embedded Firmware
 
 ---
-# My Fav :>
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ARCANOS0&hide=html,php&layout=compact&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
+
+### 🛠️ Tech Stack & Tools
+
+#### Languages & Systems
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Bash Script](https://img.shields.io/badge/Bash_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+#### Frameworks & Hardware
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
+!
