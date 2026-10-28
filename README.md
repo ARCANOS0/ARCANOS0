@@ -5,8 +5,10 @@ AKA Arcanos, I cannot call myself yet a software engineer, but I'm obsessed by l
 **One day** I will come that one person who can develop whatever he needs to and whatever he wants to, without needing to set there and wait for somebody to do it for me. 
 That's what made me think  I want to study CS"
 
+I'm not a front-end developer BTW :)
 
 
+### Some Status - Needs To Be Fixed I know :>
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ARCANOS0&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 
 ---
