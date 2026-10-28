@@ -2,17 +2,17 @@
 <h4 align="center">AKA <i>TheBlackPenguin</i></h4>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p4YmZzZTFoNWdndW16dHNxeHF0bm9ueWdveTN5ZndkNDY5eTl5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="380px" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p4YmZzZTFoNWdndW16dHNxeHF0bm9ueWdveTN5ZndkNDY5eTl5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif](https://art.pixilart.com/watermark/3889b8c3f5663c2.gif" width="380px" alt="Coding GIF">
 </p>
 
 ### About Me
 Tarek (My real name yep). I cannot call myself yet a software engineer, but I'm obsessed by learning how computers work, how applications are developed and what is sitting there underneath.
 **One day** I will come that one person who can develop whatever he needs to and whatever he wants to, without needing to set there and wait for somebody to do it for me. 
 That's what made me think  I want to study CS"
-I'm not a front-end developer BTW :) <br/> 
+I'm not a front-end developer BTW :) 
 
- 💡 **Focus:** Low-level systems, Embedded Systems, & Backend Development 
- 🐧 **Environment:** Linux Enthusiast (Zorin OS)
+💡 **Focus:** Low-level systems, Embedded Systems, & Backend Development
+🐧 **Environment:** Linux Enthusiast (Zorin OS)
 ---
 
 ### 🛠️ Tech Stack & Tools
