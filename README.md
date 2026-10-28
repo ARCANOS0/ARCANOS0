@@ -7,7 +7,7 @@ That's what made me think  I want to study CS"
 
 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ARCANOS0%show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ARCANOS0&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
