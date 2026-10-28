@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Tarek (Arcanos)</h1>
-<h3 align="center">AKA <i>TheBlackPenguin</i></h3>
+<h4 align="center">AKA <i>TheBlackPenguin</i></h4>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p4YmZzZTFoNWdndW16dHNxeHF0bm9ueWdveTN5ZndkNDY5eTl5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="380px" alt="Coding GIF">
 </p>
 
-### TheBlackPenguin Is Here!
-I'm obsessed with understanding **how computers work**, how software is architected, and what happens under the hood. 
+### About Me
+Tarek (My real name yep). I cannot call myself yet a software engineer, but I'm obsessed by learning how computers work, how applications are developed and what is sitting there underneath.
+**One day** I will come that one person who can develop whatever he needs to and whatever he wants to, without needing to set there and wait for somebody to do it for me. 
+That's what made me think  I want to study CS"
+I'm not a front-end developer BTW :) <br/> 
 
-My goal is to build full independence as a developer—mastering systems low and high level so I can bring any complex idea to life without relying on pre-built abstractions or waiting on someone else to build it.
-
-* 💡 **Focus:** Low-level systems, Embedded Systems, & Backend Development *(Not a front-end dev!)*
-* 🐧 **Environment:** Linux Enthusiast (Zorin OS)
-* 🛠️ **Current Objective:** Deep-diving into Computer Science fundamentals, FreeRTOS, and Embedded Firmware
-
+ 💡 **Focus:** Low-level systems, Embedded Systems, & Backend Development 
+ 🐧 **Environment:** Linux Enthusiast (Zorin OS)
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -28,6 +27,25 @@ My goal is to build full independence as a developer—mastering systems low and
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### Frameworks & Hardware
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
-!
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+![Espressif](https://img.shields.io/badge/Espressif-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+#### OS & Environment
+![Zorin OS](https://img.shields.io/badge/Zorin_OS-%2310AAEB.svg?style=for-the-badge&logo=zorin&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-%23FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![ProtonVPN](https://img.shields.io/badge/ProtonVPN-%2366DEB1.svg?style=for-the-badge&logo=protonvpn&logoColor=black)
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ARCANOS0&hide=html,php&layout=compact&theme=dracula" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ARCANOS0&show_icons=true&theme=dracula&rank_icon=github" alt="Arcanos's GitHub Stats" />
+</p>
