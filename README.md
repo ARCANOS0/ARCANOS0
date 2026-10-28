@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarek (Arcanos)</h1>
-<h4 align="center">AKA <i>TheBlackPenguin</i></h4>
-
 <p align="center">
-  <img src="https://art.pixilart.com/watermark/3889b8c3f5663c2.gif" alt="Coding GIF">
+  <img src="https://art.pixilart.com/sr25d63210fc213.png" alt="Ah Sh1.. To be continued">
 </p>
 
 ### About Me
@@ -13,6 +11,7 @@ I'm not a front-end developer BTW :)
 
 💡 **Focus:** Low-level systems, Embedded Systems, & Backend Development
 🐧 **Environment:** Linux Enthusiast (Zorin OS)
+
 ---
 
 ### 🛠️ Tech Stack & Tools
